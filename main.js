@@ -1,6 +1,6 @@
 function calculations() {
     
-    //Passes string and returns float
+    //Passes string 
     const string1 = document.querySelector('#field1').value
     const string2 = document.querySelector('#field2').value
     const string3 = document.querySelector('#field3').value
